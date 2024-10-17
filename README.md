@@ -5,4 +5,4 @@ I am thrilled to announce that I have completed my portfolio, showcasing my jour
 
 Through these experiences, I've honed my skills in data visualization, SQL, and web development, and I'm eager to continue exploring the world of data. I invite you to check it out and share your thoughts!
 
-datascienceportfol.io/juilydany947
+https://www.datascienceportfol.io/juilydany947
